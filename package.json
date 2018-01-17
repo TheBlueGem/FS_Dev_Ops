@@ -1,0 +1,23 @@
+{
+  "name": "fs_dev_ops",
+  "version": "1.0.0",
+  "description": "Oefenbasis",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBlueGem/FS_Dev_Ops.git"
+  },
+  "keywords": [
+    "full",
+    "stack"
+  ],
+  "author": "Jesse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBlueGem/FS_Dev_Ops/issues"
+  },
+  "homepage": "https://github.com/TheBlueGem/FS_Dev_Ops#readme"
+}
