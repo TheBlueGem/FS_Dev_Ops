@@ -38,6 +38,7 @@ Thumbs.db
 
 # Build files #
 FS_Dev_Origin/target/
+obj/
 
 # Grunt spul #
 node_modules/
